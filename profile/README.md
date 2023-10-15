@@ -1,7 +1,7 @@
 Zbakvinster's references
 ========================
 
-Hello and welcome on my personal GitHub.
+Hello and welcome to my personal GitHub.
 
 This is my demo "GitHub organization", where you can find all my public referencial demos.
 
